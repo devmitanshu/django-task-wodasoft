@@ -1,0 +1,183 @@
+[
+  
+  {
+    "model": "MultiLang.Article",
+    "pk": 1,
+    "fields": {
+      "item": "aboutme_title",
+      "item_verbose": "About Me Title",
+      "translation": {
+        "en": "About Me",
+        "fr": "Sur moi"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 2,
+    "fields": {
+      "item": "about",
+      "item_verbose": "About",
+      "translation": {
+        "en": "I am a student at SVKM NMIMS Indore pursuing B.Tech in Computer Science and Business System. Looking for opportunities where I can learn various computer science skills and apply them.",
+        "fr": "Je suis étudiant au NMIMS de SVKM Indore poursuivant un B.Tech en informatique et système commercial. À la recherche d'opportunités où je peux acquérir diverses compétences en informatique et les appliquer."
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 2,
+    "fields": {
+      "item": "skills_title",
+      "item_verbose": "Skills_title",
+      "translation": {
+        "en": "My Skills",
+        "fr": "Mes compétences"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 3,
+    "fields": {
+      "item": "skills",
+      "item_verbose": "Skills",
+      "translation": {
+        "en": "Skills and Coursework: C, C++, Python, HTML, CSS, Google Cloud Platform, Git, Django, Flask, SQL, Data Science,Object- Oriented Programming, Software Engineering (Agile Methodology), Artificial Intelligence, Enterprise System, Computer Networks, Operating Systems, Database Management Systems, Data Structures and Algorithms",
+        "fr": "compétences et cursus: C, C++, Python, HTML, CSS, Google Cloud Platform, Git, Django, Flask, SQL, Data Science,Object- Oriented Programming, Software Engineering (Agile Methodology), Artificial Intelligence, Enterprise System, Computer Networks, Operating Systems, Database Management Systems, Data Structures and Algorithms"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 4,
+    "fields": {
+      "item": "ssc",
+      "item_verbose": "SSC",
+      "translation": {
+        "en": "SECONDARY SCHOOL",
+        "fr": "LYCÉE"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 5,
+    "fields": {
+      "item": "hsc",
+      "item_verbose": "HSC",
+      "translation": {
+        "en": "Twelfth",
+        "fr": "Douzième"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 6,
+    "fields": {
+      "item": "grad",
+      "item_verbose": "Grad",
+      "translation": {
+        "en": "GRADUATION",
+        "fr": "L'OBTENTION DU DIPLÔME"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 7,
+    "fields": {
+      "item": "intern1",
+      "item_verbose": "Intern1",
+      "translation": {
+        "en": "Backend Web Development Intern at Roommate",
+        "fr": "Stagiaire en développement Web Backend chez Roommate"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 8,
+    "fields": {
+      "item": "intern1_about",
+      "item_verbose": "Intern1_about",
+      "translation": {
+        "en": "Worked on Django and Flask python server for developing website backend. Used database like SQLite and SQLAlchemy to store critical website data like user details. Technology used : Django, Flask, SQLite, Git.",
+        "fr": "Travail sur Django et Flask python server pour développer le backend du site web. Base de données utilisée comme SQLite et SQLAlchemy pour stocker un site Web critique des données telles que les détails de l'utilisateur. Technologies utilisées : Django, Flask, SQLite, Git."
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 9,
+    "fields": {
+      "item": "intern2",
+      "item_verbose": "Intern2",
+      "translation": {
+        "en": "Data Science Intern at Tata Consultancy Services",
+        "fr": "Stagiaire en science des données chez Tata Consultancy Services"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 10,
+    "fields": {
+      "item": "intern2_about",
+      "item_verbose": "Intern2_about",
+      "translation": {
+        "en": "Worked on a Natural Language Processing project. Created a website for the project using Django and used Twilio SMS Gateway for 2-Factor Authentication. Technology used : Natural Language Processing (NLP), Django, HTML,CSS,Bootstrap.",
+        "fr": "Travail sur un projet de traitement automatique du langage naturel. Création d'un site Web pour le projet à l'aide de Django et utilisation de Twilio SMS Passerelle pour l'authentification à 2 facteurs. Technologie utilisée : Natural Language Processing (NLP), Django, HTML, CSS, Bootstrap."
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 11,
+    "fields": {
+      "item": "emagazine",
+      "item_verbose": "Emagazine",
+      "translation": {
+        "en": "E-Magazine",
+        "fr": "Magazine électronique"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 12,
+    "fields": {
+      "item": "pskills",
+      "item_verbose": "Pskills",
+      "translation": {
+        "en": "Personal Skills",
+        "fr": "Compétences personnelles"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 13,
+    "fields": {
+      "item": "pskills_about",
+      "item_verbose": "Pskills_about",
+      "translation": {
+        "en": "Creative spirit, Reliable and professional, Organized, Time management, Team player, Fast learner, Motivated",
+        "fr": "Esprit créatif, Fiable et professionnel, Organisé, Gestion du temps, Esprit d'équipe, Apprenant rapide, Motivé"
+      }
+    }
+  },
+  {
+    "model": "MultiLang.Article",
+    "pk": 14,
+    "fields": {
+      "item": "contact",
+      "item_verbose": "Contact",
+      "translation": {
+        "en": "Contact Me",
+        "fr": "Contactez moi"
+      }
+    }
+  }
+]
